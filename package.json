@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "Portfolio for Chase Ottofy",
+  "description": "Portfolio for Rithika",
   "main": "index.js",
   "private": true,
   "scripts": {
@@ -38,7 +38,7 @@
     "react",
     "javascript"
   ],
-  "author": "Chase Ottofy",
+  "author": "Rithika",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rithikaux/portfolio/issues"
