@@ -43,7 +43,7 @@
   "bugs": {
     "url": "https://github.com/rithikaux/portfolio/issues"
   },
-  "homepage": "https://github.com/rithikaux/portfolio#readme",
+  "homepage": "https://github.com/rithikaux/portfolio",
   "devDependencies": {
     "@babel/core": "^7.21.8",
     "@babel/plugin-transform-modules-commonjs": "^7.21.5",
